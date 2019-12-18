@@ -1,0 +1,11 @@
+10
+44444 35.15 Nguyen Van Trung
+66666 40.49 Tran Quoc Khanh
+11111 32.36 Quach Trung Dung
+99999 65.40 Vuong Kim Kieu
+33333 32.15 Tran Van Kien
+22222 38.28 Nguyen Thanh That
+88888 92.41 Kieu Mai Ly
+10001 73.65 Kim Van Hoa
+77777 12.42 Tran Trung Truc
+55555 81.75 Nguyen Thi Huong
